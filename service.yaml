@@ -1,0 +1,10 @@
+identifier: notification-service
+title: Notification Service
+description: Sends emails, push notifications, and SMS to users
+owner: communications-team
+language: Node.js
+lifecycle: development
+tags:
+  - notifications
+  - messaging
+  - backend
